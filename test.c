@@ -1,7 +1,14 @@
 #include <stdio.h>
 
-int main(void)
+int function(void)
 {
 printf("testing./n");
+printf("aaaaaaa/n");
+printf("aaaaaaa/n");
+printf("aaaaaaa/n");
+printf("aaaaaaa/n");
+printf("aaaaaaa/n");
+printf("aaaaaaa/n");
+printf("aaaaaaa/n");
 return 0;
 }
